@@ -1,0 +1,54 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Quattrocento', serif;
+  color: #777;
+}
+
+.bgimg-1{
+  position: relative;
+  /*opacity: 0.65;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("http://orig11.deviantart.net/a512/f/2013/259/9/4/steven_gerrard_8_by_namo_7_by_445578gfx-d6mjhxt.jpg");
+  height: 100%;
+
+
+}
+
+h1{
+  font-size: 60px;
+  color: rgb(255, 66, 66);
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+small{
+  color: #514568 !important;
+}
+p{
+  font-size: 18px;
+  color: #514568 !important;
+}
+.two{
+  background-color: #f9f6f6
+}
+blockquote p, blockquote footer {
+  color: rgb(255, 66, 66) !important;
+  font-size: 30px;
+
+}
+h3{
+  font-size: 50px;
+  color: rgb(255, 66, 66);
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+.last{
+  background-color: rgb(255, 66, 66);
+}
+.last p {
+  color: white !important;
+  margin: 0
+
+}
